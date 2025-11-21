@@ -1616,55 +1616,58 @@ a {
 .cid-uMHSQRW2jD .iconfont-wrapper {
   text-align: center;
 }
-.cid-v3c1ssfZ69 {
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+.cid-v3c4FbgoIj {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
   background-color: #232323;
 }
-.cid-uMxrpPAPXU {
+.cid-v3c4FbgoIj .content-text {
+  max-width: 800px;
+}
+.cid-v3c5dmaeuB {
   padding-top: 6rem;
-  padding-bottom: 1rem;
+  padding-bottom: 3rem;
   background-color: #000000;
 }
-.cid-uMxrpPAPXU .item-mb {
+.cid-v3c5dmaeuB .item-mb {
   margin-bottom: 2rem;
 }
 @media (max-width: 767px) {
-  .cid-uMxrpPAPXU .item-mb {
+  .cid-v3c5dmaeuB .item-mb {
     margin-bottom: 1rem;
   }
 }
-.cid-uMxrpPAPXU .item-head {
+.cid-v3c5dmaeuB .item-head {
   background: #ff4c61;
   padding: 2.25rem;
 }
 @media (min-width: 992px) and (max-width: 1200px) {
-  .cid-uMxrpPAPXU .item-head {
+  .cid-v3c5dmaeuB .item-head {
     padding: 2rem 1.5rem;
     margin-bottom: 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-uMxrpPAPXU .item-head {
+  .cid-v3c5dmaeuB .item-head {
     padding: 2rem 1.5rem;
     margin-bottom: 2rem;
   }
 }
-.cid-uMxrpPAPXU .item-content {
+.cid-v3c5dmaeuB .item-content {
   padding: 2.25rem 2.25rem 0;
   background: #232323;
 }
 @media (min-width: 992px) and (max-width: 1200px) {
-  .cid-uMxrpPAPXU .item-content {
+  .cid-v3c5dmaeuB .item-content {
     padding: 0rem 1.5rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-uMxrpPAPXU .item-content {
+  .cid-v3c5dmaeuB .item-content {
     padding: 0rem 1.5rem;
   }
 }
-.cid-uMxrpPAPXU .item-wrapper {
+.cid-v3c5dmaeuB .item-wrapper {
   border-radius: 2rem;
   overflow: hidden;
   margin-bottom: 2rem;
@@ -1675,67 +1678,99 @@ a {
   flex-flow: column nowrap;
 }
 @media (max-width: 767px) {
-  .cid-uMxrpPAPXU .item-wrapper {
+  .cid-v3c5dmaeuB .item-wrapper {
     margin-bottom: 1rem;
   }
 }
 @media (min-width: 992px) and (max-width: 1200px) {
-  .cid-uMxrpPAPXU .item-wrapper .item-footer {
+  .cid-v3c5dmaeuB .item-wrapper .item-footer {
     padding: 0 1.5rem 3rem;
   }
 }
 @media (min-width: 1201px) {
-  .cid-uMxrpPAPXU .item-wrapper .item-footer {
+  .cid-v3c5dmaeuB .item-wrapper .item-footer {
     padding: 0 2rem 3rem;
   }
 }
-.cid-uMxrpPAPXU .btn {
+.cid-v3c5dmaeuB .btn {
   width: -webkit-fill-available;
 }
-.cid-uMxrpPAPXU .item:focus,
-.cid-uMxrpPAPXU span:focus {
+.cid-v3c5dmaeuB .item:focus,
+.cid-v3c5dmaeuB span:focus {
   outline: none;
 }
-.cid-uMxrpPAPXU .mbr-section-btn {
+.cid-v3c5dmaeuB .mbr-section-btn {
   margin-top: auto !important;
   padding: 2rem 2rem 0;
 }
 @media (max-width: 991px) {
-  .cid-uMxrpPAPXU .mbr-section-btn {
+  .cid-v3c5dmaeuB .mbr-section-btn {
     padding: 0rem 2.25rem 2rem;
   }
 }
 @media (max-width: 767px) {
-  .cid-uMxrpPAPXU .mbr-section-btn {
+  .cid-v3c5dmaeuB .mbr-section-btn {
     padding: 0rem 1.5rem;
     margin-bottom: 2rem;
   }
 }
-.cid-uMxrpPAPXU .mbr-section-title {
+.cid-v3c5dmaeuB .mbr-section-title {
   color: #ffffff;
 }
-.cid-uMxrpPAPXU .mbr-section-subtitle {
+.cid-v3c5dmaeuB .mbr-section-subtitle {
   color: #ffffff;
 }
-.cid-uMxrpPAPXU .mbr-text,
-.cid-uMxrpPAPXU .mbr-section-btn {
+.cid-v3c5dmaeuB .mbr-text,
+.cid-v3c5dmaeuB .mbr-section-btn {
+  text-align: left;
+}
+.cid-v3c5dmaeuB .item-title {
   text-align: left;
   color: #ffffff;
 }
-.cid-uMxrpPAPXU .item-title {
+.cid-v3c5dmaeuB .item-subtitle {
   text-align: left;
   color: #ffffff;
 }
-.cid-uMxrpPAPXU .item-subtitle {
-  text-align: left;
-  color: #ffffff;
-}
-.cid-uMxrpPAPXU .content-head {
+.cid-v3c5dmaeuB .content-head {
   max-width: 800px;
+}
+.cid-v3c5dmaeuB .counter-container ul {
+  margin: 0;
+  padding-left: 2.25rem;
+  list-style: none;
+}
+.cid-v3c5dmaeuB .counter-container ul li {
+  position: relative;
+  list-style: none;
+  margin-bottom: 2rem;
+}
+.cid-v3c5dmaeuB .counter-container ul li:before {
+  position: absolute;
+  left: -1.5em;
+  content: "";
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ff4c61;
+  background-color: #ff4c61;
+  width: 0.5em;
+  height: 0.5em;
+  top: 0.4em;
+  border-radius: 50%;
+}
+.cid-v3c5dmaeuB .counter-container ul li {
+  margin-bottom: 1rem;
+}
+.cid-v3c5dmaeuB .mbr-text UL {
+  text-align: left;
+}
+.cid-v3c5dmaeuB .mbr-text {
+  color: #ffffff;
 }
 .cid-uMHceywWvd {
   padding-top: 0rem;
-  padding-bottom: 3rem;
+  padding-bottom: 6rem;
   background-color: #232323;
 }
 .cid-uMHceywWvd .mbr-fallback-image.disabled {
